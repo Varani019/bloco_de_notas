@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="note_inte">titulo</string>
+    <string name="notr_descrição">descrição</string>
+</resources>
